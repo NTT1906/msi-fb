@@ -12,7 +12,7 @@
 ## Why?
 I removed **MSI Center Pro** and the **MSI SDK**, so I lost the ability to control the fan.
 
-While [**YAMDCC**](https://codeberg.org/Sparronator9999/YAMDCC) already supports this functionality, I only needed the Full Fan Blast feature. This project reimplements that single feature using **PawnIO**, keeping it lightweight and dependency-free.
+While [**YAMDCC**](https://codeberg.org/Sparronator9999/YAMDCC) already supports this functionality, I only needed the Full Fan Blast feature. This project reimplements that single feature using **PawnIO**, keeping it lightweight.
 
 ## Requirements
 
