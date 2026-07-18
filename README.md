@@ -1,9 +1,13 @@
-<img src="assets/app_icon_120.png" align="right" width="120" alt="MSI_FB">
+<p align="center">
+  <img src="assets/app_icon_120.png" width="72" alt="MSI_FB">
+</p>
 
-# MSI_FB
-**Minimal Full Fan Blast toggle for MSI laptops**
+<h2 align="center">MSI_FB</h2>
 
-Press the "**User Scenario**" button to instantly switch between **Auto** and **Full Fan Blast**.
+<p align="center">
+  Minimal Full Fan Blast toggle for MSI laptops.<br>
+  Press the <b>User Scenario</b> button to instantly switch between <b>Auto</b> and <b>Full Fan Blast</b>.
+</p>
 
 ## Why?
 I removed **MSI Center Pro** and the **MSI SDK**, so I lost the ability to control the fan.
